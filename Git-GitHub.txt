@@ -5,3 +5,4 @@ Git-GitHub Notları
 - "git status" komutu ile değişikliklerin nerede olduğunu görürüz.
 - "git commit -m "03.08.2023 / 22:15 de yapılan değişiklikler ile birlikte gönderilmiştir." mesajı ile birlikte yükledim.
 - "git log --oneline" ile kısa "git log" ile uzun bilgi alabilirim.
+- "git commit --amend -m "V3" ile mesajı değiştirebiliriz.
