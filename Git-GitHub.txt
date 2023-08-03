@@ -2,3 +2,5 @@ Git-GitHub Notları
 
 - "git init" ile klasörümüzde Git'i başlatırım.
 - "git add" komutu ile yaptığımız değişiklikleri WorkingSpace'den ==> StagingArea'ya taşırız.
+- "git status" komutu ile değişikliklerin nerede olduğunu görürüz.
+- "git commit -m "03.08.2023 / 22:15 de yapılan değişiklikler ile birlikte gönderilmiştir." mesajı ile birlikte yükledim.
