@@ -1,8 +1,11 @@
 Git-GitHub Notları
-
-- "git init" ile klasörümüzde Git'i başlatırım.
-- "git add" komutu ile yaptığımız değişiklikleri WorkingSpace'den ==> StagingArea'ya taşırız.
-- "git status" komutu ile değişikliklerin nerede olduğunu görürüz.
-- "git commit -m "03.08.2023 / 22:15 de yapılan değişiklikler ile birlikte gönderilmiştir." mesajı ile birlikte yükledim.
-- "git log --oneline" ile kısa "git log" ile uzun bilgi alabilirim.
-- "git commit --amend -m "V3" ile mesajı değiştirebiliriz.
+- git init ile klasörümüzde Git'i başlatırız.
+- git add . komutu ile yaptığımız değişiklikleri working directory'den staging area'a taşırız.
+- git status ile commit öncesinde nerede olduğumuzu görürüz.
+- git commit -m "V1" komutu ile değişiklikleri staging area'dan commit store'a taşırız ve bir versiyon oluşturmuş oluruz.
+- git commit --amend -m "V3" ile mesajı değiştirebiliriz.
+- git diff ile working space'teki değişiklikleri görebiliriz.
+- git show hashcode ile de commit store'daki değişiklikleri görürüz.
+- git remote add origin url diyerek bir remote repository adres tanımlamış oluruz.
+- git push -u origin master ile de dosyalarımızı push ederiz.
+- git pull diyerek remote repository'nin son halini alırız.
