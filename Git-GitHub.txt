@@ -12,4 +12,5 @@ Git-GitHub Notları
 - git log --oneline kısa olarak görürüz.
 - git branch ile branch'leri listeleriz.
 - git branc denemelerim yazdım ve denemelerim adında bir branch olusturdum.
+- git checkout master veya denemelerim diyerek branch değiştirebilirim
 
